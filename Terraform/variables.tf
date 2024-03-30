@@ -8,7 +8,7 @@ variable "credentials" {
 
 variable "project" {
   description = "Project"
-  default     = "arcane-timer-411710"
+  default     = "" # replace with the project id
 }
 
 variable "region" {
