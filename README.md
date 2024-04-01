@@ -1,5 +1,7 @@
 # Dezoomcamp Project - Chicago Crash Data Report
 
+![GCP_WORKFLOW](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/GCP_workflow.png)
+
 ![Project_Workflow](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Workflow.png)
 
 Dashboard link: https://lookerstudio.google.com/reporting/644c8f01-312c-4492-9c58-8710b32f99ba
