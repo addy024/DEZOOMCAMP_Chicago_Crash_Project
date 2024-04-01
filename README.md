@@ -1,5 +1,6 @@
 # Dezoomcamp Project - Chicago Crash Data Report
 
+![Project_Workflow](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/Workflow.png)
 
 ## Overview:
 
