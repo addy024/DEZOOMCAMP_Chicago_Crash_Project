@@ -1,5 +1,5 @@
 ## Step-by-Step Setup Guide
-
+Note: I have downloaded the data from the Api and stored into the other GCS bucket (as their is limitation of 1000 records at time for the API request: refer download.py for download) 
 1. **GCP Account Setup:** Sign up for a GCP account if you don't have one already.
 
 2. **Google SDK and Terraform Installation:** Install Google Cloud SDK and Terraform on your local machine following the official documentation.
