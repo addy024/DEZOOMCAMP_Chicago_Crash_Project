@@ -29,10 +29,22 @@ variable "bq_dataset_name" {
   default = "chicago_crash_warehouse"
 }
 
-variable "gcs_bucket_name" {
+variable "gcs_bucket_bronze_name" {
   description = "My Storage Bucket Name"
   #Update the below to a unique bucket name
-  default = "chicago_crash_data_lake"
+  default = "chicago_crash_bronze_layer"
+}
+
+variable "gcs_bucket_silver_name" {
+  description = "My Storage Bucket Name"
+  #Update the below to a unique bucket name
+  default = "chicago_crash_silver_layer"
+}
+
+variable "gcs_bucket_gold_name" {
+  description = "My Storage Bucket Name"
+  #Update the below to a unique bucket name
+  default = "chicago_crash_gold_layer"
 }
 
 variable "gcs_storage_class" {

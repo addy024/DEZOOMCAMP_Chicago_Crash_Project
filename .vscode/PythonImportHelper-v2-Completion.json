@@ -1,0 +1,1280 @@
+[
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "airflow",
+        "description": "airflow",
+        "isExtraImport": true,
+        "detail": "airflow",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "importPath": "airflow.models",
+        "description": "airflow.models",
+        "isExtraImport": true,
+        "detail": "airflow.models",
+        "documentation": {}
+    },
+    {
+        "label": "DataprocSubmitSparkSqlJobOperator",
+        "importPath": "airflow.providers.google.cloud.operators.dataproc",
+        "description": "airflow.providers.google.cloud.operators.dataproc",
+        "isExtraImport": true,
+        "detail": "airflow.providers.google.cloud.operators.dataproc",
+        "documentation": {}
+    },
+    {
+        "label": "DataprocSubmitPySparkJobOperator",
+        "importPath": "airflow.providers.google.cloud.operators.dataproc",
+        "description": "airflow.providers.google.cloud.operators.dataproc",
+        "isExtraImport": true,
+        "detail": "airflow.providers.google.cloud.operators.dataproc",
+        "documentation": {}
+    },
+    {
+        "label": "days_ago",
+        "importPath": "airflow.utils.dates",
+        "description": "airflow.utils.dates",
+        "isExtraImport": true,
+        "detail": "airflow.utils.dates",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "pyspark.sql.functions",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "mean",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "stddev",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "min",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "max",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_timestamp",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "year",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "hour",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_timestamp",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "year",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "hour",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_timestamp",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "year",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "hour",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "pyspark.sql.window",
+        "description": "pyspark.sql.window",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.window",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "DoubleType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "DoubleType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "DoubleType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "project_id",
+        "kind": 5,
+        "importPath": "Airflow_Dags.chicago_project",
+        "description": "Airflow_Dags.chicago_project",
+        "peekOfCode": "project_id = Variable.get('project_id')\nregion = Variable.get('region')\nbucket_name = Variable.get('bucket_name')\ncluster_name = Variable.get('cluster_name')\ndefault_args = {\n    # Tell airflow to start one day ago, so that it runs as soon as you upload it\n    \"project_id\": project_id,\n    \"region\": region,\n    \"cluster_name\": cluster_name,\n    \"start_date\": days_ago(1)",
+        "detail": "Airflow_Dags.chicago_project",
+        "documentation": {}
+    },
+    {
+        "label": "region",
+        "kind": 5,
+        "importPath": "Airflow_Dags.chicago_project",
+        "description": "Airflow_Dags.chicago_project",
+        "peekOfCode": "region = Variable.get('region')\nbucket_name = Variable.get('bucket_name')\ncluster_name = Variable.get('cluster_name')\ndefault_args = {\n    # Tell airflow to start one day ago, so that it runs as soon as you upload it\n    \"project_id\": project_id,\n    \"region\": region,\n    \"cluster_name\": cluster_name,\n    \"start_date\": days_ago(1)\n}",
+        "detail": "Airflow_Dags.chicago_project",
+        "documentation": {}
+    },
+    {
+        "label": "bucket_name",
+        "kind": 5,
+        "importPath": "Airflow_Dags.chicago_project",
+        "description": "Airflow_Dags.chicago_project",
+        "peekOfCode": "bucket_name = Variable.get('bucket_name')\ncluster_name = Variable.get('cluster_name')\ndefault_args = {\n    # Tell airflow to start one day ago, so that it runs as soon as you upload it\n    \"project_id\": project_id,\n    \"region\": region,\n    \"cluster_name\": cluster_name,\n    \"start_date\": days_ago(1)\n}\nwith models.DAG(",
+        "detail": "Airflow_Dags.chicago_project",
+        "documentation": {}
+    },
+    {
+        "label": "cluster_name",
+        "kind": 5,
+        "importPath": "Airflow_Dags.chicago_project",
+        "description": "Airflow_Dags.chicago_project",
+        "peekOfCode": "cluster_name = Variable.get('cluster_name')\ndefault_args = {\n    # Tell airflow to start one day ago, so that it runs as soon as you upload it\n    \"project_id\": project_id,\n    \"region\": region,\n    \"cluster_name\": cluster_name,\n    \"start_date\": days_ago(1)\n}\nwith models.DAG(\n    \"daily_product_revenue_jobs_dag\",",
+        "detail": "Airflow_Dags.chicago_project",
+        "documentation": {}
+    },
+    {
+        "label": "default_args",
+        "kind": 5,
+        "importPath": "Airflow_Dags.chicago_project",
+        "description": "Airflow_Dags.chicago_project",
+        "peekOfCode": "default_args = {\n    # Tell airflow to start one day ago, so that it runs as soon as you upload it\n    \"project_id\": project_id,\n    \"region\": region,\n    \"cluster_name\": cluster_name,\n    \"start_date\": days_ago(1)\n}\nwith models.DAG(\n    \"daily_product_revenue_jobs_dag\",\n    default_args=default_args,",
+        "detail": "Airflow_Dags.chicago_project",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.bronze.download_crash",
+        "description": "jobs.bronze.download_crash",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\ndf = spark.read.option(\"header\", \"true\").csv(\"gs://chicago-data-project-dezoomcamp/Traffic_Crashes_-_Crashes_20240330.csv\")\ndf.write.mode('overwrite').csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Crashes_20240330.csv\")\nspark.stop()",
+        "detail": "jobs.bronze.download_crash",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.bronze.download_crash",
+        "description": "jobs.bronze.download_crash",
+        "peekOfCode": "df = spark.read.option(\"header\", \"true\").csv(\"gs://chicago-data-project-dezoomcamp/Traffic_Crashes_-_Crashes_20240330.csv\")\ndf.write.mode('overwrite').csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Crashes_20240330.csv\")\nspark.stop()",
+        "detail": "jobs.bronze.download_crash",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.bronze.download_people",
+        "description": "jobs.bronze.download_people",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\ndf = spark.read.option(\"header\", \"true\").csv(\"gs://chicago-data-project-dezoomcamp/Traffic_Crashes_-_People_20240330.csv\")\ndf.write.mode('overwrite').csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_People_20240330.csv\")\nspark.stop()",
+        "detail": "jobs.bronze.download_people",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.bronze.download_people",
+        "description": "jobs.bronze.download_people",
+        "peekOfCode": "df = spark.read.option(\"header\", \"true\").csv(\"gs://chicago-data-project-dezoomcamp/Traffic_Crashes_-_People_20240330.csv\")\ndf.write.mode('overwrite').csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_People_20240330.csv\")\nspark.stop()",
+        "detail": "jobs.bronze.download_people",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.bronze.download_vehicle",
+        "description": "jobs.bronze.download_vehicle",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\ndf = spark.read.option(\"header\", \"true\").csv(\"gs://chicago-data-project-dezoomcamp/Traffic_Crashes_-_Vehicles_20240330.csv\")\ndf.write.mode('overwrite').csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Vehicles_20240330.csv\")\nspark.stop()",
+        "detail": "jobs.bronze.download_vehicle",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.bronze.download_vehicle",
+        "description": "jobs.bronze.download_vehicle",
+        "peekOfCode": "df = spark.read.option(\"header\", \"true\").csv(\"gs://chicago-data-project-dezoomcamp/Traffic_Crashes_-_Vehicles_20240330.csv\")\ndf.write.mode('overwrite').csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Vehicles_20240330.csv\")\nspark.stop()",
+        "detail": "jobs.bronze.download_vehicle",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.gold.age_stats",
+        "description": "jobs.gold.age_stats",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\npeople_df = spark.read.parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\n# Filter out records where age is greater than or equal to 0 \nfiltered_people_df = people_df.filter(col(\"AGE\") >= 0)\nage_stats = filtered_people_df.select(mean(col(\"AGE\")).alias(\"mean_age\"),\n                      stddev(col(\"AGE\")).alias(\"stddev_age\"),\n                      min(col(\"AGE\")).alias(\"min_age\"),\n                      max(col(\"AGE\")).alias(\"max_age\"))\nage_stats.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/age_stats.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.age_stats",
+        "documentation": {}
+    },
+    {
+        "label": "people_df",
+        "kind": 5,
+        "importPath": "jobs.gold.age_stats",
+        "description": "jobs.gold.age_stats",
+        "peekOfCode": "people_df = spark.read.parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\n# Filter out records where age is greater than or equal to 0 \nfiltered_people_df = people_df.filter(col(\"AGE\") >= 0)\nage_stats = filtered_people_df.select(mean(col(\"AGE\")).alias(\"mean_age\"),\n                      stddev(col(\"AGE\")).alias(\"stddev_age\"),\n                      min(col(\"AGE\")).alias(\"min_age\"),\n                      max(col(\"AGE\")).alias(\"max_age\"))\nage_stats.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/age_stats.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.age_stats",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_people_df",
+        "kind": 5,
+        "importPath": "jobs.gold.age_stats",
+        "description": "jobs.gold.age_stats",
+        "peekOfCode": "filtered_people_df = people_df.filter(col(\"AGE\") >= 0)\nage_stats = filtered_people_df.select(mean(col(\"AGE\")).alias(\"mean_age\"),\n                      stddev(col(\"AGE\")).alias(\"stddev_age\"),\n                      min(col(\"AGE\")).alias(\"min_age\"),\n                      max(col(\"AGE\")).alias(\"max_age\"))\nage_stats.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/age_stats.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.age_stats",
+        "documentation": {}
+    },
+    {
+        "label": "age_stats",
+        "kind": 5,
+        "importPath": "jobs.gold.age_stats",
+        "description": "jobs.gold.age_stats",
+        "peekOfCode": "age_stats = filtered_people_df.select(mean(col(\"AGE\")).alias(\"mean_age\"),\n                      stddev(col(\"AGE\")).alias(\"stddev_age\"),\n                      min(col(\"AGE\")).alias(\"min_age\"),\n                      max(col(\"AGE\")).alias(\"max_age\"))\nage_stats.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/age_stats.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.age_stats",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.gold.crash_hour",
+        "description": "jobs.gold.crash_hour",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\ndf = spark.read.parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\ncolumns = [\"hour\", \"CRASH_RECORD_ID\"]\ncrash_groupby_hour_df = df.groupBy(\"hour\").agg(count(\"CRASH_RECORD_ID\").alias(\"count\"))\ncrash_groupby_hour_df = crash_groupby_hour_df.orderBy(\"hour\")\ncrash_groupby_hour_df.show()\ncrash_groupby_hour_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/crash_groupby_hour.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.crash_hour",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.gold.crash_hour",
+        "description": "jobs.gold.crash_hour",
+        "peekOfCode": "df = spark.read.parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\ncolumns = [\"hour\", \"CRASH_RECORD_ID\"]\ncrash_groupby_hour_df = df.groupBy(\"hour\").agg(count(\"CRASH_RECORD_ID\").alias(\"count\"))\ncrash_groupby_hour_df = crash_groupby_hour_df.orderBy(\"hour\")\ncrash_groupby_hour_df.show()\ncrash_groupby_hour_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/crash_groupby_hour.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.crash_hour",
+        "documentation": {}
+    },
+    {
+        "label": "columns",
+        "kind": 5,
+        "importPath": "jobs.gold.crash_hour",
+        "description": "jobs.gold.crash_hour",
+        "peekOfCode": "columns = [\"hour\", \"CRASH_RECORD_ID\"]\ncrash_groupby_hour_df = df.groupBy(\"hour\").agg(count(\"CRASH_RECORD_ID\").alias(\"count\"))\ncrash_groupby_hour_df = crash_groupby_hour_df.orderBy(\"hour\")\ncrash_groupby_hour_df.show()\ncrash_groupby_hour_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/crash_groupby_hour.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.crash_hour",
+        "documentation": {}
+    },
+    {
+        "label": "crash_groupby_hour_df",
+        "kind": 5,
+        "importPath": "jobs.gold.crash_hour",
+        "description": "jobs.gold.crash_hour",
+        "peekOfCode": "crash_groupby_hour_df = df.groupBy(\"hour\").agg(count(\"CRASH_RECORD_ID\").alias(\"count\"))\ncrash_groupby_hour_df = crash_groupby_hour_df.orderBy(\"hour\")\ncrash_groupby_hour_df.show()\ncrash_groupby_hour_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/crash_groupby_hour.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.crash_hour",
+        "documentation": {}
+    },
+    {
+        "label": "crash_groupby_hour_df",
+        "kind": 5,
+        "importPath": "jobs.gold.crash_hour",
+        "description": "jobs.gold.crash_hour",
+        "peekOfCode": "crash_groupby_hour_df = crash_groupby_hour_df.orderBy(\"hour\")\ncrash_groupby_hour_df.show()\ncrash_groupby_hour_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/crash_groupby_hour.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.crash_hour",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.gold.gender",
+        "description": "jobs.gold.gender",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\npeople_df = spark.read.parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\n# Count the number of males and females 3\ngender_counts = people_df.groupBy(\"SEX\").agg(F.count(\"*\").alias(\"count\"))\ngender_counts.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/gender_counts.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.gender",
+        "documentation": {}
+    },
+    {
+        "label": "people_df",
+        "kind": 5,
+        "importPath": "jobs.gold.gender",
+        "description": "jobs.gold.gender",
+        "peekOfCode": "people_df = spark.read.parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\n# Count the number of males and females 3\ngender_counts = people_df.groupBy(\"SEX\").agg(F.count(\"*\").alias(\"count\"))\ngender_counts.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/gender_counts.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.gender",
+        "documentation": {}
+    },
+    {
+        "label": "gender_counts",
+        "kind": 5,
+        "importPath": "jobs.gold.gender",
+        "description": "jobs.gold.gender",
+        "peekOfCode": "gender_counts = people_df.groupBy(\"SEX\").agg(F.count(\"*\").alias(\"count\"))\ngender_counts.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/gender_counts.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.gender",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.gold.weather_condition_crash_type",
+        "description": "jobs.gold.weather_condition_crash_type",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\ndf = spark.read.parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\ngrouped_df = df.groupBy('FIRST_CRASH_TYPE', 'WEATHER_CONDITION') \\\n                       .agg(F.count('*').alias('COUNT'))\n# Window specification to partition by 'FIRST_CRASH_TYPE' and order by count descending\nwindow_spec = Window.partitionBy('FIRST_CRASH_TYPE') \\\n                    .orderBy(F.desc('COUNT'))\n# Add row number to each partition\nranked_df = grouped_df.withColumn('rank', F.row_number().over(window_spec))\n# Filter rows with rank = 1 to get the most frequent 'WEATHER_CONDITION' for each 'FIRST_CRASH_TYPE'",
+        "detail": "jobs.gold.weather_condition_crash_type",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.gold.weather_condition_crash_type",
+        "description": "jobs.gold.weather_condition_crash_type",
+        "peekOfCode": "df = spark.read.parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\ngrouped_df = df.groupBy('FIRST_CRASH_TYPE', 'WEATHER_CONDITION') \\\n                       .agg(F.count('*').alias('COUNT'))\n# Window specification to partition by 'FIRST_CRASH_TYPE' and order by count descending\nwindow_spec = Window.partitionBy('FIRST_CRASH_TYPE') \\\n                    .orderBy(F.desc('COUNT'))\n# Add row number to each partition\nranked_df = grouped_df.withColumn('rank', F.row_number().over(window_spec))\n# Filter rows with rank = 1 to get the most frequent 'WEATHER_CONDITION' for each 'FIRST_CRASH_TYPE'\nresult_df = ranked_df.filter(F.col('rank') == 1) \\",
+        "detail": "jobs.gold.weather_condition_crash_type",
+        "documentation": {}
+    },
+    {
+        "label": "grouped_df",
+        "kind": 5,
+        "importPath": "jobs.gold.weather_condition_crash_type",
+        "description": "jobs.gold.weather_condition_crash_type",
+        "peekOfCode": "grouped_df = df.groupBy('FIRST_CRASH_TYPE', 'WEATHER_CONDITION') \\\n                       .agg(F.count('*').alias('COUNT'))\n# Window specification to partition by 'FIRST_CRASH_TYPE' and order by count descending\nwindow_spec = Window.partitionBy('FIRST_CRASH_TYPE') \\\n                    .orderBy(F.desc('COUNT'))\n# Add row number to each partition\nranked_df = grouped_df.withColumn('rank', F.row_number().over(window_spec))\n# Filter rows with rank = 1 to get the most frequent 'WEATHER_CONDITION' for each 'FIRST_CRASH_TYPE'\nresult_df = ranked_df.filter(F.col('rank') == 1) \\\n                     .select('FIRST_CRASH_TYPE', 'WEATHER_CONDITION', 'COUNT') \\",
+        "detail": "jobs.gold.weather_condition_crash_type",
+        "documentation": {}
+    },
+    {
+        "label": "window_spec",
+        "kind": 5,
+        "importPath": "jobs.gold.weather_condition_crash_type",
+        "description": "jobs.gold.weather_condition_crash_type",
+        "peekOfCode": "window_spec = Window.partitionBy('FIRST_CRASH_TYPE') \\\n                    .orderBy(F.desc('COUNT'))\n# Add row number to each partition\nranked_df = grouped_df.withColumn('rank', F.row_number().over(window_spec))\n# Filter rows with rank = 1 to get the most frequent 'WEATHER_CONDITION' for each 'FIRST_CRASH_TYPE'\nresult_df = ranked_df.filter(F.col('rank') == 1) \\\n                     .select('FIRST_CRASH_TYPE', 'WEATHER_CONDITION', 'COUNT') \\\n                     .withColumnRenamed('WEATHER_CONDITION', 'WEATHER')\n# Show the result\nresult_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/weather_condition_crash_type.parquet\")",
+        "detail": "jobs.gold.weather_condition_crash_type",
+        "documentation": {}
+    },
+    {
+        "label": "ranked_df",
+        "kind": 5,
+        "importPath": "jobs.gold.weather_condition_crash_type",
+        "description": "jobs.gold.weather_condition_crash_type",
+        "peekOfCode": "ranked_df = grouped_df.withColumn('rank', F.row_number().over(window_spec))\n# Filter rows with rank = 1 to get the most frequent 'WEATHER_CONDITION' for each 'FIRST_CRASH_TYPE'\nresult_df = ranked_df.filter(F.col('rank') == 1) \\\n                     .select('FIRST_CRASH_TYPE', 'WEATHER_CONDITION', 'COUNT') \\\n                     .withColumnRenamed('WEATHER_CONDITION', 'WEATHER')\n# Show the result\nresult_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/weather_condition_crash_type.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.weather_condition_crash_type",
+        "documentation": {}
+    },
+    {
+        "label": "result_df",
+        "kind": 5,
+        "importPath": "jobs.gold.weather_condition_crash_type",
+        "description": "jobs.gold.weather_condition_crash_type",
+        "peekOfCode": "result_df = ranked_df.filter(F.col('rank') == 1) \\\n                     .select('FIRST_CRASH_TYPE', 'WEATHER_CONDITION', 'COUNT') \\\n                     .withColumnRenamed('WEATHER_CONDITION', 'WEATHER')\n# Show the result\nresult_df.write.mode('overwrite').parquet(\"gs://chicago_crash_gold_layer/weather_condition_crash_type.parquet\")\nspark.stop()",
+        "detail": "jobs.gold.weather_condition_crash_type",
+        "documentation": {}
+    },
+    {
+        "label": "parse_crash_date",
+        "kind": 2,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "def parse_crash_date(date_str):\n    try:\n        return to_timestamp(date_str, \"MM/dd/yyyy hh:mm:ss a\")\n    except:\n        return None\n# Read CSV file with defined schema\ndf = spark.read.option(\"header\", \"true\").schema(schema).csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Crashes_20240330.csv\")\n# Parse CRASH_DATE column\ndf = df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\n# Show the DataFrame schema and some sample data",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\n## Fix Schema \nfrom pyspark.sql.types import StructType, StructField, StringType, IntegerType, DoubleType, TimestampType\nfrom pyspark.sql.functions import col, to_timestamp\n# Define the schema for the DataFrame\nschema = StructType([\n    StructField(\"CRASH_RECORD_ID\", StringType(), True),\n    StructField(\"CRASH_DATE_EST_I\", StringType(), True),\n    StructField(\"CRASH_DATE\", StringType(), True),\n    StructField(\"POSTED_SPEED_LIMIT\", IntegerType(), True),",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "schema = StructType([\n    StructField(\"CRASH_RECORD_ID\", StringType(), True),\n    StructField(\"CRASH_DATE_EST_I\", StringType(), True),\n    StructField(\"CRASH_DATE\", StringType(), True),\n    StructField(\"POSTED_SPEED_LIMIT\", IntegerType(), True),\n    StructField(\"TRAFFIC_CONTROL_DEVICE\", StringType(), True),\n    StructField(\"DEVICE_CONDITION\", StringType(), True),\n    StructField(\"WEATHER_CONDITION\", StringType(), True),\n    StructField(\"LIGHTING_CONDITION\", StringType(), True),\n    StructField(\"FIRST_CRASH_TYPE\", StringType(), True),",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = spark.read.option(\"header\", \"true\").schema(schema).csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Crashes_20240330.csv\")\n# Parse CRASH_DATE column\ndf = df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\n# Show the DataFrame schema and some sample data\ndf.printSchema()\n# Filter columns where all values are null\ncolumns_to_keep = [col_name for col_name in df.columns if df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = df.select(*columns_to_keep)\n# Define the threshold for non-null values per row",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\n# Show the DataFrame schema and some sample data\ndf.printSchema()\n# Filter columns where all values are null\ncolumns_to_keep = [col_name for col_name in df.columns if df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# # Drop rows with fewer than 2 non-null values",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "columns_to_keep",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "columns_to_keep = [col_name for col_name in df.columns if df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# # Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\ndf.printSchema()\ndf.show(2)\nfrom pyspark.sql.functions import col, to_date, year, month, hour",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df_filtered",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df_filtered = df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# # Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\ndf.printSchema()\ndf.show(2)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "thresh",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "thresh = 2\n# # Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\ndf.printSchema()\ndf.show(2)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = df_filtered.na.drop(thresh=thresh)\ndf.printSchema()\ndf.show(2)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.crash_schema",
+        "description": "jobs.silver.crash_schema",
+        "peekOfCode": "df = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/crash.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.crash_schema",
+        "documentation": {}
+    },
+    {
+        "label": "parse_crash_date",
+        "kind": 2,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "def parse_crash_date(date_str):\n    try:\n        return to_timestamp(date_str, \"MM/dd/yyyy hh:mm:ss a\")\n    except:\n        return None\npeople_df = spark.read.option(\"header\", \"true\").schema(people_schema).csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_People_20240330.csv\")\npeople_df = people_df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\ncolumns_to_keep = [col_name for col_name in people_df.columns if people_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = people_df.select(*columns_to_keep)",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\n## Fix Schema \nfrom pyspark.sql.types import StructType, StructField, StringType, IntegerType, DoubleType, TimestampType\nfrom pyspark.sql.functions import col, to_timestamp\n# Define the schema for the DataFrame\npeople_schema = StructType([\n    StructField(\"PERSON_ID\", StringType(), True),\n    StructField(\"PERSON_TYPE\", StringType(), True),\n    StructField(\"CRASH_RECORD_ID\", StringType(), True),\n    StructField(\"VEHICLE_ID\", StringType(), True),",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "people_schema",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "people_schema = StructType([\n    StructField(\"PERSON_ID\", StringType(), True),\n    StructField(\"PERSON_TYPE\", StringType(), True),\n    StructField(\"CRASH_RECORD_ID\", StringType(), True),\n    StructField(\"VEHICLE_ID\", StringType(), True),\n    StructField(\"CRASH_DATE\", StringType(), True),\n    StructField(\"SEAT_NO\", StringType(), True),\n    StructField(\"CITY\", StringType(), True),\n    StructField(\"STATE\", StringType(), True),\n    StructField(\"ZIPCODE\", StringType(), True),",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "people_df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "people_df = spark.read.option(\"header\", \"true\").schema(people_schema).csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_People_20240330.csv\")\npeople_df = people_df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\ncolumns_to_keep = [col_name for col_name in people_df.columns if people_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = people_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "people_df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "people_df = people_df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\ncolumns_to_keep = [col_name for col_name in people_df.columns if people_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = people_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "columns_to_keep",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "columns_to_keep = [col_name for col_name in people_df.columns if people_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = people_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df_filtered",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "df_filtered = people_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "thresh",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "thresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "df = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "df = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "df = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "df = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.people_schema",
+        "description": "jobs.silver.people_schema",
+        "peekOfCode": "df = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/people.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.people_schema",
+        "documentation": {}
+    },
+    {
+        "label": "parse_crash_date",
+        "kind": 2,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "def parse_crash_date(date_str):\n    try:\n        return to_timestamp(date_str, \"MM/dd/yyyy hh:mm:ss a\")\n    except:\n        return None\n# Now you can use this schema when reading the CSV file\nvehicle_df = spark.read.option(\"header\", \"true\").schema(vehicle_schema).csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Vehicles_20240330.csv\")\nvehicle_df = vehicle_df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\n# Show the DataFrame schema and some sample data\nvehicle_df.printSchema()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "spark = SparkSession.builder.getOrCreate()\n## Fix Schema \nfrom pyspark.sql.types import StructType, StructField, StringType, IntegerType, DoubleType, TimestampType\nfrom pyspark.sql.functions import col, to_timestamp\n# Define the schema for the DataFrame\nvehicle_schema = StructType([\n    StructField(\"CRASH_UNIT_ID\", IntegerType(), True),\n    StructField(\"CRASH_RECORD_ID\", StringType(), True),\n    StructField(\"CRASH_DATE\", StringType(), True),\n    StructField(\"UNIT_NO\", IntegerType(), True),",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_schema",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "vehicle_schema = StructType([\n    StructField(\"CRASH_UNIT_ID\", IntegerType(), True),\n    StructField(\"CRASH_RECORD_ID\", StringType(), True),\n    StructField(\"CRASH_DATE\", StringType(), True),\n    StructField(\"UNIT_NO\", IntegerType(), True),\n    StructField(\"UNIT_TYPE\", StringType(), True),\n    StructField(\"NUM_PASSENGERS\", IntegerType(), True),\n    StructField(\"VEHICLE_ID\", StringType(), True),\n    StructField(\"CMRC_VEH_I\", StringType(), True),\n    StructField(\"MAKE\", StringType(), True),",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "vehicle_df = spark.read.option(\"header\", \"true\").schema(vehicle_schema).csv(\"gs://chicago_crash_bronze_layer/Traffic_Crashes_-_Vehicles_20240330.csv\")\nvehicle_df = vehicle_df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\n# Show the DataFrame schema and some sample data\nvehicle_df.printSchema()\n# Filter columns where all values are null\ncolumns_to_keep = [col_name for col_name in vehicle_df.columns if vehicle_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = vehicle_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "vehicle_df = vehicle_df.withColumn(\"CRASH_DATE\", parse_crash_date(col(\"CRASH_DATE\")))\n# Show the DataFrame schema and some sample data\nvehicle_df.printSchema()\n# Filter columns where all values are null\ncolumns_to_keep = [col_name for col_name in vehicle_df.columns if vehicle_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = vehicle_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "columns_to_keep",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "columns_to_keep = [col_name for col_name in vehicle_df.columns if vehicle_df.where(col(col_name).isNotNull()).count() > 0]\n# Select only the columns to keep\ndf_filtered = vehicle_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df_filtered",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "df_filtered = vehicle_df.select(*columns_to_keep)\n# Define the threshold for non-null values per row\nthresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "thresh",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "thresh = 2\n# Drop rows with fewer than 2 non-null values\ndf = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/vehicle.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "df = df_filtered.na.drop(thresh=thresh)\nfrom pyspark.sql.functions import col, to_date, year, month, hour\ndf = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/vehicle.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "df = df.withColumn('date', to_date(col('CRASH_DATE')))\ndf = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/vehicle.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "df = df.withColumn('month', month(col('CRASH_DATE')))\ndf = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/vehicle.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "df = df.withColumn('year', year(col('CRASH_DATE')))\ndf = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/vehicle.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.silver.vehicle_schema",
+        "description": "jobs.silver.vehicle_schema",
+        "peekOfCode": "df = df.withColumn('hour', hour(col('CRASH_DATE')))\ndf.write.mode('overwrite').parquet(\"gs://chicago_crash_silver_layer/vehicle.parquet\")\nspark.stop()",
+        "detail": "jobs.silver.vehicle_schema",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "spark = SparkSession. \\\n    builder. \\\n    getOrCreate()\ndata_uri = os.environ.get('DATA_URI')\nproject_id = os.environ.get('PROJECT_ID')\ndateset_name = os.environ.get('DATASET_NAME')\ngcs_temp_bucket = os.environ.get('GCS_TEMP_BUCKET')\noutput_name = os.environ.get('OUTPUT_NAME')\ndf = spark. \\\n    read. \\",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "data_uri",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "data_uri = os.environ.get('DATA_URI')\nproject_id = os.environ.get('PROJECT_ID')\ndateset_name = os.environ.get('DATASET_NAME')\ngcs_temp_bucket = os.environ.get('GCS_TEMP_BUCKET')\noutput_name = os.environ.get('OUTPUT_NAME')\ndf = spark. \\\n    read. \\\n    parquet(data_uri)\nspark.conf.set('temporaryGcsBucket', gcs_temp_bucket)\ndf. \\",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "project_id",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "project_id = os.environ.get('PROJECT_ID')\ndateset_name = os.environ.get('DATASET_NAME')\ngcs_temp_bucket = os.environ.get('GCS_TEMP_BUCKET')\noutput_name = os.environ.get('OUTPUT_NAME')\ndf = spark. \\\n    read. \\\n    parquet(data_uri)\nspark.conf.set('temporaryGcsBucket', gcs_temp_bucket)\ndf. \\\n    write. \\",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "dateset_name",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "dateset_name = os.environ.get('DATASET_NAME')\ngcs_temp_bucket = os.environ.get('GCS_TEMP_BUCKET')\noutput_name = os.environ.get('OUTPUT_NAME')\ndf = spark. \\\n    read. \\\n    parquet(data_uri)\nspark.conf.set('temporaryGcsBucket', gcs_temp_bucket)\ndf. \\\n    write. \\\n    mode('overwrite'). \\",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "gcs_temp_bucket",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "gcs_temp_bucket = os.environ.get('GCS_TEMP_BUCKET')\noutput_name = os.environ.get('OUTPUT_NAME')\ndf = spark. \\\n    read. \\\n    parquet(data_uri)\nspark.conf.set('temporaryGcsBucket', gcs_temp_bucket)\ndf. \\\n    write. \\\n    mode('overwrite'). \\\n    format('bigquery'). \\",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "output_name",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "output_name = os.environ.get('OUTPUT_NAME')\ndf = spark. \\\n    read. \\\n    parquet(data_uri)\nspark.conf.set('temporaryGcsBucket', gcs_temp_bucket)\ndf. \\\n    write. \\\n    mode('overwrite'). \\\n    format('bigquery'). \\\n    option('table', f'{project_id}:{dateset_name}.{output_name}'). \\",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.transfer.transfer_data_to_bq_",
+        "description": "jobs.transfer.transfer_data_to_bq_",
+        "peekOfCode": "df = spark. \\\n    read. \\\n    parquet(data_uri)\nspark.conf.set('temporaryGcsBucket', gcs_temp_bucket)\ndf. \\\n    write. \\\n    mode('overwrite'). \\\n    format('bigquery'). \\\n    option('table', f'{project_id}:{dateset_name}.{output_name}'). \\\n    save()",
+        "detail": "jobs.transfer.transfer_data_to_bq_",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data_with_offset",
+        "kind": 2,
+        "importPath": "jobs.download",
+        "description": "jobs.download",
+        "peekOfCode": "def fetch_data_with_offset(api_url, offset):\n    try:\n        params = {'$offset': offset}\n        response = requests.get(api_url, params=params)\n        response.raise_for_status()  # Raise an exception for 4xx or 5xx status codes\n        return response.json()  # Parse JSON response\n    except requests.exceptions.RequestException as e:\n        print(\"Error fetching data:\", e)\n        return None\n# Example usage",
+        "detail": "jobs.download",
+        "documentation": {}
+    },
+    {
+        "label": "api_url",
+        "kind": 5,
+        "importPath": "jobs.download",
+        "description": "jobs.download",
+        "peekOfCode": "api_url = \"https://data.cityofchicago.org/resource/85ca-t3if.json\"\n# Define the initial offset and increment value\noffset = 0\nincrement = 1000\n# Fetch data in increments of 1000 rows\nall_data = []\nwhile True:\n    data = fetch_data_with_offset(api_url, offset)\n    if not data:\n        print(\"Failed to fetch data from the API.\")",
+        "detail": "jobs.download",
+        "documentation": {}
+    },
+    {
+        "label": "offset",
+        "kind": 5,
+        "importPath": "jobs.download",
+        "description": "jobs.download",
+        "peekOfCode": "offset = 0\nincrement = 1000\n# Fetch data in increments of 1000 rows\nall_data = []\nwhile True:\n    data = fetch_data_with_offset(api_url, offset)\n    if not data:\n        print(\"Failed to fetch data from the API.\")\n        break\n    elif len(data) == 0:",
+        "detail": "jobs.download",
+        "documentation": {}
+    },
+    {
+        "label": "increment",
+        "kind": 5,
+        "importPath": "jobs.download",
+        "description": "jobs.download",
+        "peekOfCode": "increment = 1000\n# Fetch data in increments of 1000 rows\nall_data = []\nwhile True:\n    data = fetch_data_with_offset(api_url, offset)\n    if not data:\n        print(\"Failed to fetch data from the API.\")\n        break\n    elif len(data) == 0:\n        print(\"Reached the end of the dataset.\")",
+        "detail": "jobs.download",
+        "documentation": {}
+    },
+    {
+        "label": "all_data",
+        "kind": 5,
+        "importPath": "jobs.download",
+        "description": "jobs.download",
+        "peekOfCode": "all_data = []\nwhile True:\n    data = fetch_data_with_offset(api_url, offset)\n    if not data:\n        print(\"Failed to fetch data from the API.\")\n        break\n    elif len(data) == 0:\n        print(\"Reached the end of the dataset.\")\n        break\n    else:",
+        "detail": "jobs.download",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "jobs.download",
+        "description": "jobs.download",
+        "peekOfCode": "df = pd.DataFrame(all_data)\n# Save DataFrame to a CSV file\ndf.to_csv(\"crash.csv\", index=False)\nprint(\"Data saved to crash.csv\")",
+        "detail": "jobs.download",
+        "documentation": {}
+    }
+]

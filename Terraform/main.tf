@@ -14,8 +14,8 @@ provider "google" {
 }
 
 
-resource "google_storage_bucket" "demo-bucket" {
-  name          = var.gcs_bucket_name
+resource "google_storage_bucket" "bronze-bucket" {
+  name          = var.gcs_bucket_bronze_name
   location      = var.location
   force_destroy = true
 
@@ -30,6 +30,37 @@ resource "google_storage_bucket" "demo-bucket" {
   }
 }
 
+resource "google_storage_bucket" "silver-bucket" {
+  name          = var.gcs_bucket_silver_name
+  location      = var.location
+  force_destroy = true
+
+
+  lifecycle_rule {
+    condition {
+      age = 1
+    }
+    action {
+      type = "AbortIncompleteMultipartUpload"
+    }
+  }
+}
+
+resource "google_storage_bucket" "gold-bucket" {
+  name          = var.gcs_bucket_gold_name
+  location      = var.location
+  force_destroy = true
+
+
+  lifecycle_rule {
+    condition {
+      age = 1
+    }
+    action {
+      type = "AbortIncompleteMultipartUpload"
+    }
+  }
+}
 
 
 resource "google_bigquery_dataset" "demo_dataset" {
