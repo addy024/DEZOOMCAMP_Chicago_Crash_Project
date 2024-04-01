@@ -2,6 +2,8 @@
 
 ![Project_Workflow](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Workflow.png)
 
+Dashboard link: https://lookerstudio.google.com/reporting/644c8f01-312c-4492-9c58-8710b32f99ba
+
 ## Overview:
 
 The Chicago Traffic Crash ETL (Extract, Transform, Load) project aims to process and analyze data related to traffic crashes in Chicago. The project extracts raw data from various sources, transforms it into a structured format, and loads it into a data warehouse for analysis. By leveraging Spark for data processing and analysis, the project provides valuable insights into traffic crash trends, contributing to informed decision-making and improved road safety measures.
