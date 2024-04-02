@@ -17,6 +17,7 @@ The Chicago Traffic Crash ETL (Extract, Transform, Load) project aims to process
 Crash Data: Raw crash data containing information about crash records, including crash date, location, weather conditions, and crash severity.
 Vehicle Data: Information about vehicles involved in crashes, such as vehicle type, condition, and damage.
 People Data: Data about individuals involved in crashes, including demographic information, injuries, and actions taken.
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data
 
 ## ETL Process:
 Extraction: Raw data is extracted from various sources, including CSV files and Parquet files stored in Google Cloud Storage (GCS).
