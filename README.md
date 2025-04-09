@@ -1,8 +1,8 @@
 # Dezoomcamp Project - Chicago Crash Data Report
 
-![Dashboard](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Screenshot%202024-04-02%20023441.png)
+![GCP_WORKFLOW](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/GCP_WORFLOW.png)
 
-![GCP_WORKFLOW](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/GCP_workflow.png)
+![Dashboard](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Screenshot%202024-04-02%20023441.png)
 
 ![Project_Workflow](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Workflow.png)
 
